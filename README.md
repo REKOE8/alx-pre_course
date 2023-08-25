@@ -1,3 +1,3 @@
-My first readme updated
+readme updated
 README update from github.com
 my last chance 
